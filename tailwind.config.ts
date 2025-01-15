@@ -12,6 +12,17 @@ export default {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      screens: {
+        xs: '568px',
+        xs1: '600px',
+        md1: '840px',
+        md2: '900px',
+        lg1: '1100px',
+        xl1: '1400px',
+      },
+      fontFamily: {
+        roboto: ['Roboto', 'sans-serif'],
+      },
     },
   },
   plugins: [],
