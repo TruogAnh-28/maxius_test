@@ -1,0 +1,33 @@
+{
+  "page1":{
+    "description_1": "맥시우스는 자체 개발한 시스템반도체를적용하여 고성능 서버를 제조판매하는 회사로 IDC와 IPFS IDC 구축 사업과 개발 및 운영 컨설팅 사업을 진행하고 있습니다.",
+    "description_2": "우리는 기업가치와 속도에서 최고가 될 것입니다."
+  },
+  "page2":{
+    "text": "1. <span class='note'>자체 개 발한</span> 시스템반도체 2. 고성능 서버 <span class='note'>제조 판매</span> 3. HPS기반 IPFS <span class='note'>IDC 구축사업</span> 4. 블록체인 <span class='note'>IPFS</span>"
+  },
+  "page3":{
+    "text_product_1": "다양한 영역 에서 응용 가능한 <span class='note'>High-Performance Server</span> 각종 I/O 장치에 적용 가능한 <span class='note'>IDC 구축</span> IPFS등 다양한 <span class='note'>Blockchain Solution</span>",
+    "text_product_2": "Maxius 는 다양한 제품 과 Solution 을 공급 하여 세계 시장 속 에서 지속 성장 하는 기업 으로 발전해 나가겠습니다 .",
+    "text_technology_1": "20년 이상의 연구 노하우와 기술력을 기반으로 국내 유일의 <span class='note'>자체개발 시스템반도체</span> 를 이용하여 HPC 서버를 만드는 회사로 <span class='note'>지능형 데이터</span> 센터 와 IT산업분야에 특화된 솔루션을 제공하고 있습니다.",
+    "text_technology_2": "Maxius는 20년 이상 축적된 높은 기술력으로 서비스로 차별된 제품과 Solution을 공급하기 위하여 노력하고 있습니다.",
+    "text_application_1": "Maxius의 각종 제품은 <span class='note'>인공지능/유전체분석, 엣지컴퓨팅, IDC센터</span> 등에 활용되고 있으며 다양한 Solution은 방대한 <span class='note'>데이터분석 및 분산처리기능, IPFS IDC</span> 등에 활용되고 있습니다.",
+    "text_application_2": "Maxius는 연구개발과 Communication을 통하여 다양한 분야에 유용한 제품 및 Solution을 공급하도록 하겠습니다.",
+    "text_blockchain_1": "메타버스에 활용되는 <span class='note'>스토리지 및 서비스</span> Web3.0의 <span class='note'>IPFS 스토리지 및 응용서비스 </span>",
+    "text_blockchain_2": "Maxius는 탈중앙화된 스토리지에 최적화된 H/W와 S/W를 통합 제공하여 고객의 니즈를 맞추고 최고의 고부가가치를 창출하겠습니다."
+  },
+  "page4":{
+    "text_history": "<strong>2021</strong>:<br><br> 맥시우스로 사명 변경 제1차 범정부 정보자원 통합구축 HW3<br><br><strong>2020</strong>:<br><br> 인공지능기반 적응형 보안시스템 2차 구축 SPC 인증: 스토리지 세계 TOP5 순위 기록<br><br><strong>2019</strong>:<br><br> 유전체 분석 시스템 반도체 개발 및 고성능 스토리지 개발<br><br><strong>2018</strong>:<br><br> 고성능 시스템 반도체를 이용한 소형슈퍼컴퓨터 개발 국제공인 TPC 인증<br><br><strong>2017</strong>:<br><br> 대기전력 저감 우수제품 확인(한국에너지공단) 기술혁신대상<br><br><strong>2016</strong>:<br><br> 방송통신기자재등의 적합등록 필증 획득(국립전파연구원) (주)KT ds MOU 체결<br><br><strong>2015</strong>:<br><br> IT 융합기업인상 수상(산업통상자원부) 한국특허기술상 대상(세종대왕상) 수상<br><br><strong>2010</strong>:<br><br> 국내 최초 PCI Interface Type의 Storage Board SSD 제품 상용화 개발 성공<br><br><strong>1996</strong>:<br><br> 회사 설립",
+  "text_partners": "<strong>1000여개 정부 관련 기업:</strong><br><br>청와대, 한국수력원자력, 대한민국 국방부, 군포시, 한국농수산식품유통공사, 전라남도, 영상물등급위원회, 제주국제자유도시개발센터, 한국주택금융공사, 경기지방경찰청, 정부통합전산센터, KPIC, 대법원, 농림수산식품기술기획평가원, LH, 국립국악원, 근로복지공단 등<br><br><strong>250여개 교육 관련 기업:</strong><br><br>카이스트, 서울대학교, 동국대학교, 부산대학교, 인천대학교, 한국전자통신연구원, 서영대학교, 한국정보통신기술협회, 선문대학교, 남서울대학교, 충남대학교, 가천대학교, 명지대학교 등<br><br><strong>120여개 제조 관련 기업:</strong><br><br>삼성토탈, 삼성SDS, LS산전, 한화시스템, 신테카바이오 등<br><br><strong>350여개 방송 관련 기업:</strong><br><br>중앙일보씨앤씨, DBS동아방송, KCTV, 전자신문, 더디지털타임즈 등<br><br><strong>50여개 금융, 통신 관련 기업:</strong><br><br>현대증권, 삼성화재, MG새마을금고, KDB산업은행, SGI서울보증, 한국수출입은행, IBK기업은행, 미래에셋증권, 미래에셋생명, 미래에셋대우, NH농협생명, KB증권, SK텔레콤, SK브로드밴드, SK텔링크, KTds 등",
+"text_patents": "<strong>고속데이터 입출력 반도체 칩:</strong><br><br>FPGA/ CPLD/ ASIC 설계 제작 기술, TPU개발 능력 보유.<br><br><strong>지능형 패턴분석 알고리즘:</strong><br><br>데이터 패턴 분석에 따른 Hybrid 캐시 알고리즘.<br><br><strong>OS 및 SSD 최적화:</strong><br><br>OS에 따른 디바이스 드라이버 최적화 기술, 저장장치 자원 관리 기술.",
+"text_awards": "<strong>대한민국 특허 대상 세종대왕상 수상:</strong><br><br>뛰어난 성능과 에너지 절약 기술로 국내 최고 특허 상 수상.<br><br><strong>대한민국 우수제품지정증서 인증:</strong><br><br>고성능 시스템 품질을 인정 받은 국내 유일의 서버분야 우수조달 등록제품 인증.<br><br><strong>대한민국 녹색기술인증서 인증:</strong><br><br>최고 성능 및 최대 효율을 자랑하는 환경친화적 기술 보유.<br><br><strong>대한민국 TPC-C 인증:</strong><br><br>국내 최초 국제 공인 TPC-C인증 받아 인메모리 DB를 탑재한 인공지능 고성능 컴퓨팅 기술과 성능을 인정."
+  },
+  "home": "홈",
+  "about": "소개",
+  "contact": "연락처",
+  "menu": {
+    "home": "홈",
+    "about": "소개",
+    "contact": "연락처"
+  }
+}
