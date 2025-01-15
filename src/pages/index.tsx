@@ -1,5 +1,3 @@
-import Image from 'next/image';
-import { Geist, Geist_Mono } from 'next/font/google';
 import Header from '@/components/header';
 import { serverSideTranslations } from 'next-i18next/serverSideTranslations';
 import { Suspense, lazy } from 'react';

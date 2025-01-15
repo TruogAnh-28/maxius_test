@@ -29,7 +29,7 @@ export default function PageThree() {
   return (
     <div className="h-screen flex flex-col justify-center text-white bg-[url('/images/banner-03-kr.png')] relative">
       <div className='p-[12%] md1:p-0 flex flex-col md1:flex-row md1:absolute md1:top-0 md1:left-[-3%] right-0 md1:w-[70%] md1:h-full md1:mx-auto p-0 text-left '>
-        {sections.map((section, index) => (
+        {sections.map((section) => (
           <div
             key={section.title}
             className={`item p-5 w-full p-4 group box-border md1:h-full relative transition-all duration-200 md1:w-[25%] md1:hover:w-[33%] md1:hover:group-hover:w-[22%] md1:hover:bg-white md1:hover:bg-opacity-10 transition-all duration-200 ease-in-out  md1:border-b-0  ${

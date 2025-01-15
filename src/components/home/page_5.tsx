@@ -1,8 +1,4 @@
-import { useTranslation } from 'next-i18next';
-
 export default function PageFive() {
-  const { t } = useTranslation('common');
-
   const sections = [
     {
       title: 'Company.',
