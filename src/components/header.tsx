@@ -12,7 +12,7 @@ export default function Header() {
       <h1 className='text-[21px] font-bold absolute top-[30px] left-[50px] xs:top-[50px] md:left-[60px] z-50'>
         MAXIUS
       </h1>
-      <div className='absolute top-12 right-24 flex items-center gap-4 z-50'>
+      <div className='absolute top-[30px] xs:top-[50px] right-[50px] md:right-[60px] flex items-center gap-4 z-50'>
         <button className='z-50 ml-4 text-[32px]'>☰ </button>
         <div className='absolute top-[50px] flex right-0 z-50'>
           <button
